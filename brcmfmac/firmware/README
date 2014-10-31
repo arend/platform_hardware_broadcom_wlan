@@ -1,0 +1,4 @@
+Any firmware (.bin) and nvram (.txt) files that are placed here will
+be installed in the system image. You can use firmware files from the
+linux-firmware repository. The nvram files are to be provided by the
+wifi board supplier as they are specific to a board.
